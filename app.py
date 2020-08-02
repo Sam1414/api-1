@@ -21,4 +21,4 @@ def default_page():
 
 if __name__ == '__main__':
     initialize()
-    app.run(debug=False)
+    app.run(debug=True)
